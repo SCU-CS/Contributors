@@ -2,10 +2,30 @@
 
 SCU-CS的贡献者们，感谢各位用爱发电的人
 
-## 计网
+## 必修课
 
-Hugh
-- 新建仓库
-- pdf
+### 大一
+    
+#### [C/C++](https://scu-cs.github.io/C-Cpp/)
+#### 汇编
+### 大二
+#### 计算机组成原理
+#### 数据结构
+#### 微机接口
+#### [操作系统](https://scu-cs.github.io/OperationSystem/)
 
-## OS
+- [x] 课程信息 : Hugh
+- [x] 指导信息 : Hugh
+- [x] PPT     : Hugh
+- [ ] 作业
+- [ ] 课设
+
+### 大三
+#### [计算机网络](https://scu-cs.github.io/ComputerNetwork/)
+#### 软件工程
+#### 数据库原理
+#### 编译原理
+#### 计算机体系结构
+## 选修课
+## 跨专业
+## 公选课
